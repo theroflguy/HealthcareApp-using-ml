@@ -27,6 +27,6 @@ This project is an end to end data science project that is able to predict the c
  d. Similarly Deployed all models and connected them to the home page inside apache web server.<br>
  
  # Project Created by:
-  [Manjunath GB](https://www.linkedin.com/in/theroflguy/)
+  [Manjunath GB](https://www.linkedin.com/in/theroflguy/)<br>
   [Shrishti Bailkeri](https://www.linkedin.com/in/bedanta-bhandar-kayastha-ba39251b2/)
  
